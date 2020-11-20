@@ -1,2 +1,2 @@
 # Initial
-Repositório de teste inicial
+Este arquivo é um teste para a criação de repositório.
